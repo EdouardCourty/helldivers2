@@ -1,4 +1,4 @@
-import { AxiosResponse } from "axios";
+import axios from "axios";
 
 export default class HttpErrorException extends Error {
     #code;
@@ -19,7 +19,7 @@ export default class HttpErrorException extends Error {
     }
 
     /**
-     * @returns AxiosResponse
+     * @returns axios.AxiosResponse
      */
     getResponse() {
         return this.#response;
