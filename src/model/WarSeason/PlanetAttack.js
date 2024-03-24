@@ -1,4 +1,4 @@
-export default class {
+export default class PlanetAttack {
     /** @type number */
     source;
     /** @type number */

@@ -1,10 +1,10 @@
 import Position from "../CommonNested/Position.js";
 
-export default class {
+export default class PlanetInfo {
     /** @type boolean */
     disabled;
     /** @type string */
-    hash;
+    settingsHash;
     /** @type number */
     index;
     /** @type string */
@@ -19,6 +19,4 @@ export default class {
     sector;
     /** @type array */
     waypoints;
-    /** @type string */
-    race;
 }

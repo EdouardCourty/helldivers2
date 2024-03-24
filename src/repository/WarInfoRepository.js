@@ -1,19 +1,19 @@
 import HTTPClient from "../HTTPClient.js";
-import WarSeason from "../model/WarSeason.js";
 import HttpNotFoundException from "../exception/HttpNotFoundException.js";
-import WarSeasonDenormaliser from "../denormaliser/WarSeasonDenormaliser.js";
+import WarInfo from "../model/WarInfo.js";
+import WarInfoDenormaliser from "../denormaliser/WarInfoDenormaliser.js";
 import HttpErrorException from "../exception/HttpErrorException.js";
 
-export default class WarSeasonRepository {
+export default class WarInfoRepository {
     /**
-     * @param {number} warSeasonId
-     * @returns {Promise<WarSeason>}
+     * @param warSeasonId
+     * @returns {Promise<WarInfo>}
      */
     static async getById(warSeasonId) {
         try {
-            const response = await HTTPClient.getInstance().get('/api/WarSeason/' + warSeasonId + '/Status');
+            const response = await HTTPClient.getInstance().get('/api/WarSeason/' + warSeasonId + '/WarInfo');
 
-            return WarSeasonDenormaliser.denormaliseWarSeason(response.data)
+            return WarInfoDenormaliser.denormaliseWarInfo(response.data)
         } catch (error) {
             if (error.response.status === 400) {
                 throw new HttpNotFoundException(`WarSeason with ID ${warSeasonId} not found.`);

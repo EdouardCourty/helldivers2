@@ -5,7 +5,7 @@ import JointOperation from "./WarSeason/JointOperation.js";
 import PlanetEvent from "./WarSeason/PlanetEvent.js";
 import GlobalEvent from "./WarSeason/GlobalEvent.js";
 
-export default class {
+export default class WarSeason {
     /** @type number */
     warId;
     /** @type number */

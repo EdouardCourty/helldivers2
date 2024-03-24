@@ -7,7 +7,7 @@ import PlanetEvent from "../model/WarSeason/PlanetEvent.js";
 import planetAttack from "../model/WarSeason/PlanetAttack.js";
 import GlobalEvent from "../model/WarSeason/GlobalEvent.js";
 
-export default class {
+export default class WarSeasonDenormaliser {
     /**
      * @param {object} body
      * @returns WarSeason

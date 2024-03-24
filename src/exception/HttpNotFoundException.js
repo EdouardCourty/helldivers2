@@ -1,5 +1,1 @@
-export default class extends Error {
-    constructor(message) {
-        super(message)
-    }
-}
+export default class HttpNotFoundException extends Error {}
