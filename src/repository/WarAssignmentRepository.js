@@ -1,12 +1,13 @@
 import HTTPClient from "../HTTPClient.js";
 import HttpNotFoundException from "../exception/HttpNotFoundException.js";
 import HttpErrorException from "../exception/HttpErrorException.js";
+import Assignment from "../model/Assignment.js";
 import WarAssignmentDenormaliser from "../denormaliser/WarAssignmentDenormaliser.js";
 
 export default class WarAssignmentRepository {
     /**
      * @param {number} warId
-     * @returns {Promise<*>}
+     * @returns {Promise<Assignment[]>}
      */
     static async getWarAssignment(warId) {
         try {
