@@ -1,0 +1,3832 @@
+[
+  {
+    "index": 0,
+    "settingsHash": 897386910,
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "waypoints": [
+      1
+    ],
+    "sector": 0,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 1,
+    "settingsHash": 3621417917,
+    "position": {
+      "x": 0.05373042,
+      "y": 0.10565466
+    },
+    "waypoints": [
+      2
+    ],
+    "sector": 1,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 2,
+    "settingsHash": 2543303604,
+    "position": {
+      "x": 0.04664221,
+      "y": 0.16758725
+    },
+    "waypoints": [
+      3
+    ],
+    "sector": 1,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 3,
+    "settingsHash": 2768073863,
+    "position": {
+      "x": 0.12536779,
+      "y": 0.11821219
+    },
+    "waypoints": [
+      4
+    ],
+    "sector": 1,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 4,
+    "settingsHash": 158585041,
+    "position": {
+      "x": 0.10280278,
+      "y": 0.05765711
+    },
+    "waypoints": [
+      5
+    ],
+    "sector": 1,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 5,
+    "settingsHash": 1008084099,
+    "position": {
+      "x": 0.15988354,
+      "y": 0.043583166
+    },
+    "waypoints": [],
+    "sector": 1,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 6,
+    "settingsHash": 167872110,
+    "position": {
+      "x": 0.13535836,
+      "y": -0.03378948
+    },
+    "waypoints": [
+      8
+    ],
+    "sector": 2,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 7,
+    "settingsHash": 1138804949,
+    "position": {
+      "x": 0.36159223,
+      "y": -0.52270126
+    },
+    "waypoints": [
+      178,
+      180
+    ],
+    "sector": 2,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 8,
+    "settingsHash": 3550298780,
+    "position": {
+      "x": 0.09485684,
+      "y": -0.08101245
+    },
+    "waypoints": [
+      0,
+      9
+    ],
+    "sector": 2,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 9,
+    "settingsHash": 1025193891,
+    "position": {
+      "x": 0.15801243,
+      "y": -0.09685686
+    },
+    "waypoints": [
+      6,
+      10,
+      30,
+      31
+    ],
+    "sector": 2,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 10,
+    "settingsHash": 2767954873,
+    "position": {
+      "x": 0.06770126,
+      "y": -0.1448935
+    },
+    "waypoints": [],
+    "sector": 2,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 11,
+    "settingsHash": 688773671,
+    "position": {
+      "x": 0.001789452,
+      "y": -0.18935835
+    },
+    "waypoints": [
+      12,
+      33
+    ],
+    "sector": 3,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 12,
+    "settingsHash": 160818366,
+    "position": {
+      "x": -0.001789474,
+      "y": -0.12535837
+    },
+    "waypoints": [],
+    "sector": 3,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 13,
+    "settingsHash": 2877873656,
+    "position": {
+      "x": -0.06158319,
+      "y": -0.16488354
+    },
+    "waypoints": [
+      37
+    ],
+    "sector": 4,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 14,
+    "settingsHash": 1529228469,
+    "position": {
+      "x": -0.099012464,
+      "y": -0.11185683
+    },
+    "waypoints": [
+      0,
+      15
+    ],
+    "sector": 5,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 15,
+    "settingsHash": 3749877391,
+    "position": {
+      "x": -0.17010404,
+      "y": -0.08865711
+    },
+    "waypoints": [
+      38
+    ],
+    "sector": 5,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 16,
+    "settingsHash": 4254371037,
+    "position": {
+      "x": 0.27240774,
+      "y": 0.20429876
+    },
+    "waypoints": [
+      51,
+      77,
+      85
+    ],
+    "sector": 5,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 17,
+    "settingsHash": 2273175182,
+    "position": {
+      "x": -0.14765465,
+      "y": -0.030730395
+    },
+    "waypoints": [
+      15
+    ],
+    "sector": 5,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 18,
+    "settingsHash": 3088889549,
+    "position": {
+      "x": -0.15065464,
+      "y": 0.015730456
+    },
+    "waypoints": [
+      40
+    ],
+    "sector": 6,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 19,
+    "settingsHash": 768352347,
+    "position": {
+      "x": -0.1728935,
+      "y": 0.06970126
+    },
+    "waypoints": [
+      20,
+      42
+    ],
+    "sector": 7,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 20,
+    "settingsHash": 1299274778,
+    "position": {
+      "x": -0.12621213,
+      "y": 0.11136782
+    },
+    "waypoints": [
+      21
+    ],
+    "sector": 7,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 21,
+    "settingsHash": 3992185257,
+    "position": {
+      "x": -0.07801243,
+      "y": 0.10585686
+    },
+    "waypoints": [
+      0,
+      22
+    ],
+    "sector": 7,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 22,
+    "settingsHash": 160106209,
+    "position": {
+      "x": -0.039789412,
+      "y": 0.14535835
+    },
+    "waypoints": [],
+    "sector": 7,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 23,
+    "settingsHash": 1257502272,
+    "position": {
+      "x": 0.030315775,
+      "y": 0.2269306
+    },
+    "waypoints": [
+      24
+    ],
+    "sector": 8,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 24,
+    "settingsHash": 2862366365,
+    "position": {
+      "x": 0.09383544,
+      "y": 0.25608748
+    },
+    "waypoints": [
+      48
+    ],
+    "sector": 8,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 25,
+    "settingsHash": 1812451556,
+    "position": {
+      "x": 0.17009519,
+      "y": 0.1877717
+    },
+    "waypoints": [
+      26
+    ],
+    "sector": 9,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 26,
+    "settingsHash": 4068066596,
+    "position": {
+      "x": 0.2117717,
+      "y": 0.12409518
+    },
+    "waypoints": [
+      27
+    ],
+    "sector": 9,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 27,
+    "settingsHash": 2585302931,
+    "position": {
+      "x": 0.2540875,
+      "y": 0.05583542
+    },
+    "waypoints": [],
+    "sector": 9,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 28,
+    "settingsHash": 3650236983,
+    "position": {
+      "x": 0.2939306,
+      "y": -0.033684243
+    },
+    "waypoints": [
+      29,
+      53
+    ],
+    "sector": 9,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 29,
+    "settingsHash": 410562438,
+    "position": {
+      "x": 0.22952318,
+      "y": -0.029197697
+    },
+    "waypoints": [],
+    "sector": 10,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 30,
+    "settingsHash": 3538905431,
+    "position": {
+      "x": 0.23037383,
+      "y": -0.0976583
+    },
+    "waypoints": [
+      31
+    ],
+    "sector": 2,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 31,
+    "settingsHash": 529527934,
+    "position": {
+      "x": 0.2007717,
+      "y": -0.1490952
+    },
+    "waypoints": [],
+    "sector": 2,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 32,
+    "settingsHash": 3945891756,
+    "position": {
+      "x": 0.15409517,
+      "y": -0.210073
+    },
+    "waypoints": [
+      33
+    ],
+    "sector": 3,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 33,
+    "settingsHash": 3266374354,
+    "position": {
+      "x": 0.0977173,
+      "y": -0.22407754
+    },
+    "waypoints": [],
+    "sector": 3,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 34,
+    "settingsHash": 3551496165,
+    "position": {
+      "x": 0.5111386,
+      "y": 0.3511805
+    },
+    "waypoints": [
+      125,
+      168,
+      169,
+      211
+    ],
+    "sector": 3,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 2
+  },
+  {
+    "index": 35,
+    "settingsHash": 2640422831,
+    "position": {
+      "x": -0.023138678,
+      "y": -0.24981944
+    },
+    "waypoints": [
+      11
+    ],
+    "sector": 3,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 36,
+    "settingsHash": 3407890530,
+    "position": {
+      "x": -0.09065833,
+      "y": -0.2413738
+    },
+    "waypoints": [
+      37
+    ],
+    "sector": 4,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 37,
+    "settingsHash": 760056919,
+    "position": {
+      "x": -0.1440952,
+      "y": -0.2027717
+    },
+    "waypoints": [],
+    "sector": 4,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 38,
+    "settingsHash": 1831450049,
+    "position": {
+      "x": -0.19187985,
+      "y": -0.14480585
+    },
+    "waypoints": [
+      39
+    ],
+    "sector": 5,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 39,
+    "settingsHash": 298165685,
+    "position": {
+      "x": -0.24438877,
+      "y": -0.10283538
+    },
+    "waypoints": [],
+    "sector": 5,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 40,
+    "settingsHash": 2146401321,
+    "position": {
+      "x": -0.2415232,
+      "y": -0.033197638
+    },
+    "waypoints": [
+      41
+    ],
+    "sector": 6,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 41,
+    "settingsHash": 3508924100,
+    "position": {
+      "x": -0.25681943,
+      "y": 0.030138722
+    },
+    "waypoints": [
+      63
+    ],
+    "sector": 6,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 42,
+    "settingsHash": 2243203717,
+    "position": {
+      "x": -0.2473738,
+      "y": 0.09965837
+    },
+    "waypoints": [],
+    "sector": 7,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 43,
+    "settingsHash": 1678797801,
+    "position": {
+      "x": -0.1857717,
+      "y": 0.13809519
+    },
+    "waypoints": [
+      44
+    ],
+    "sector": 18,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 44,
+    "settingsHash": 3404343820,
+    "position": {
+      "x": -0.16809516,
+      "y": 0.19577172
+    },
+    "waypoints": [
+      66
+    ],
+    "sector": 18,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 45,
+    "settingsHash": 2969736642,
+    "position": {
+      "x": -0.13065825,
+      "y": 0.30637383
+    },
+    "waypoints": [
+      67
+    ],
+    "sector": 19,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 46,
+    "settingsHash": 1438199726,
+    "position": {
+      "x": -0.061315693,
+      "y": 0.2489306
+    },
+    "waypoints": [
+      68
+    ],
+    "sector": 19,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 47,
+    "settingsHash": 2013504640,
+    "position": {
+      "x": 0.037842084,
+      "y": 0.32250285
+    },
+    "waypoints": [
+      48
+    ],
+    "sector": 8,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 48,
+    "settingsHash": 2525961073,
+    "position": {
+      "x": 0.1129696,
+      "y": 0.3345827
+    },
+    "waypoints": [
+      73
+    ],
+    "sector": 8,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 49,
+    "settingsHash": 2151164116,
+    "position": {
+      "x": 0.2219546,
+      "y": 0.2772582
+    },
+    "waypoints": [
+      76
+    ],
+    "sector": 20,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 50,
+    "settingsHash": 3265310936,
+    "position": {
+      "x": 0.87390286,
+      "y": 0.35359928
+    },
+    "waypoints": [
+      213
+    ],
+    "sector": 20,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 2
+  },
+  {
+    "index": 51,
+    "settingsHash": 4148701638,
+    "position": {
+      "x": 0.287884,
+      "y": 0.1099696
+    },
+    "waypoints": [
+      52,
+      85
+    ],
+    "sector": 9,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 52,
+    "settingsHash": 1756822119,
+    "position": {
+      "x": 0.338688,
+      "y": 0.05460588
+    },
+    "waypoints": [
+      80
+    ],
+    "sector": 9,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 53,
+    "settingsHash": 438925458,
+    "position": {
+      "x": 0.32650283,
+      "y": -0.12384212
+    },
+    "waypoints": [],
+    "sector": 10,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 54,
+    "settingsHash": 4190033207,
+    "position": {
+      "x": 0.26874065,
+      "y": -0.21253327
+    },
+    "waypoints": [],
+    "sector": 11,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 55,
+    "settingsHash": 3951456049,
+    "position": {
+      "x": 0.19353323,
+      "y": -0.28004193
+    },
+    "waypoints": [
+      56
+    ],
+    "sector": 12,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 56,
+    "settingsHash": 207323189,
+    "position": {
+      "x": 0.12696959,
+      "y": -0.30758274
+    },
+    "waypoints": [],
+    "sector": 12,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 57,
+    "settingsHash": 3674393208,
+    "position": {
+      "x": 0.04284205,
+      "y": -0.33550286
+    },
+    "waypoints": [
+      58,
+      92
+    ],
+    "sector": 13,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 58,
+    "settingsHash": 430094434,
+    "position": {
+      "x": -0.038842108,
+      "y": -0.32750285
+    },
+    "waypoints": [],
+    "sector": 13,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 59,
+    "settingsHash": 1018677806,
+    "position": {
+      "x": -0.11379249,
+      "y": -0.3215678
+    },
+    "waypoints": [
+      60,
+      96
+    ],
+    "sector": 14,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 60,
+    "settingsHash": 2414771368,
+    "position": {
+      "x": -0.19953328,
+      "y": -0.2830419
+    },
+    "waypoints": [],
+    "sector": 14,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 61,
+    "settingsHash": 635122119,
+    "position": {
+      "x": -0.26690286,
+      "y": -0.23559926
+    },
+    "waypoints": [
+      62
+    ],
+    "sector": 15,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 62,
+    "settingsHash": 3508592390,
+    "position": {
+      "x": -0.28988406,
+      "y": -0.16096954
+    },
+    "waypoints": [],
+    "sector": 15,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 63,
+    "settingsHash": 4056948497,
+    "position": {
+      "x": -0.33550286,
+      "y": -0.05084203
+    },
+    "waypoints": [],
+    "sector": 6,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 64,
+    "settingsHash": 215016124,
+    "position": {
+      "x": 0.5134972,
+      "y": 0.20684212
+    },
+    "waypoints": [
+      78,
+      126,
+      127,
+      169
+    ],
+    "sector": 17,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 2
+  },
+  {
+    "index": 65,
+    "settingsHash": 3293929397,
+    "position": {
+      "x": -0.31756774,
+      "y": 0.13179255
+    },
+    "waypoints": [
+      108
+    ],
+    "sector": 17,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 66,
+    "settingsHash": 1750606702,
+    "position": {
+      "x": -0.24490279,
+      "y": 0.21259932
+    },
+    "waypoints": [
+      67
+    ],
+    "sector": 18,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 67,
+    "settingsHash": 3882819373,
+    "position": {
+      "x": -0.20995454,
+      "y": 0.28325823
+    },
+    "waypoints": [],
+    "sector": 18,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 68,
+    "settingsHash": 1223630977,
+    "position": {
+      "x": -0.05373336,
+      "y": 0.3648641
+    },
+    "waypoints": [
+      69,
+      116
+    ],
+    "sector": 18,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 69,
+    "settingsHash": 2115544264,
+    "position": {
+      "x": -0.060664836,
+      "y": 0.44539174
+    },
+    "waypoints": [
+      116
+    ],
+    "sector": 19,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 70,
+    "settingsHash": 4206815834,
+    "position": {
+      "x": -0.1716316,
+      "y": 0.8050751
+    },
+    "waypoints": [],
+    "sector": 8,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 71,
+    "settingsHash": 2898292715,
+    "position": {
+      "x": 0.0441322,
+      "y": 0.42626023
+    },
+    "waypoints": [
+      73
+    ],
+    "sector": 8,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 72,
+    "settingsHash": 922433838,
+    "position": {
+      "x": -0.52319145,
+      "y": 0.14335436
+    },
+    "waypoints": [
+      109,
+      110
+    ],
+    "sector": 8,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 73,
+    "settingsHash": 3238002446,
+    "position": {
+      "x": 0.1661038,
+      "y": 0.40307793
+    },
+    "waypoints": [],
+    "sector": 8,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 74,
+    "settingsHash": 670993741,
+    "position": {
+      "x": 0.2559713,
+      "y": 0.5260108
+    },
+    "waypoints": [
+      120,
+      121
+    ],
+    "sector": 20,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 75,
+    "settingsHash": 2729833133,
+    "position": {
+      "x": 0.372748,
+      "y": 0.5082812
+    },
+    "waypoints": [
+      122,
+      123
+    ],
+    "sector": 20,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 76,
+    "settingsHash": 910588397,
+    "position": {
+      "x": 0.26528117,
+      "y": 0.347748
+    },
+    "waypoints": [],
+    "sector": 20,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 77,
+    "settingsHash": 2112907641,
+    "position": {
+      "x": 0.32492584,
+      "y": 0.25839266
+    },
+    "waypoints": [],
+    "sector": 20,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 78,
+    "settingsHash": 1886266372,
+    "position": {
+      "x": 0.6113544,
+      "y": 0.22880854
+    },
+    "waypoints": [
+      169,
+      170
+    ],
+    "sector": 21,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 2
+  },
+  {
+    "index": 79,
+    "settingsHash": 1391690878,
+    "position": {
+      "x": 0.39437926,
+      "y": 0.27310377
+    },
+    "waypoints": [
+      77,
+      125,
+      168
+    ],
+    "sector": 21,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 2
+  },
+  {
+    "index": 80,
+    "settingsHash": 3659340575,
+    "position": {
+      "x": 0.43926024,
+      "y": 0.0731322
+    },
+    "waypoints": [
+      85,
+      127
+    ],
+    "sector": 22,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 81,
+    "settingsHash": 572365311,
+    "position": {
+      "x": 0.3660751,
+      "y": -0.04763163
+    },
+    "waypoints": [
+      28,
+      83
+    ],
+    "sector": 22,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 82,
+    "settingsHash": 4009717368,
+    "position": {
+      "x": 0.5340751,
+      "y": -0.090368435
+    },
+    "waypoints": [
+      131
+    ],
+    "sector": 10,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 83,
+    "settingsHash": 2623879324,
+    "position": {
+      "x": 0.44555652,
+      "y": -0.06207318
+    },
+    "waypoints": [],
+    "sector": 10,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 84,
+    "settingsHash": 1076755284,
+    "position": {
+      "x": 0.41835436,
+      "y": -0.17080852
+    },
+    "waypoints": [
+      132
+    ],
+    "sector": 24,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 85,
+    "settingsHash": 912379297,
+    "position": {
+      "x": 0.33707795,
+      "y": 0.1548962
+    },
+    "waypoints": [
+      77
+    ],
+    "sector": 24,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 86,
+    "settingsHash": 2598991571,
+    "position": {
+      "x": 0.39501083,
+      "y": -0.26197135
+    },
+    "waypoints": [
+      87
+    ],
+    "sector": 11,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 87,
+    "settingsHash": 49391513,
+    "position": {
+      "x": 0.32492584,
+      "y": -0.26339266
+    },
+    "waypoints": [
+      54
+    ],
+    "sector": 11,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 88,
+    "settingsHash": 2299441253,
+    "position": {
+      "x": 0.24639264,
+      "y": -0.3159259
+    },
+    "waypoints": [
+      55,
+      89
+    ],
+    "sector": 12,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 89,
+    "settingsHash": 2695815635,
+    "position": {
+      "x": 0.29074797,
+      "y": -0.35328123
+    },
+    "waypoints": [],
+    "sector": 12,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 90,
+    "settingsHash": 1922612740,
+    "position": {
+      "x": 0.18610376,
+      "y": -0.381078
+    },
+    "waypoints": [
+      91
+    ],
+    "sector": 13,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 91,
+    "settingsHash": 3172148623,
+    "position": {
+      "x": 0.15380847,
+      "y": -0.4373544
+    },
+    "waypoints": [
+      92
+    ],
+    "sector": 13,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 92,
+    "settingsHash": 3602852408,
+    "position": {
+      "x": 0.06113215,
+      "y": -0.40526026
+    },
+    "waypoints": [
+      94
+    ],
+    "sector": 13,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 93,
+    "settingsHash": 3515684391,
+    "position": {
+      "x": 0.1470731,
+      "y": -0.5095566
+    },
+    "waypoints": [
+      137
+    ],
+    "sector": 13,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 94,
+    "settingsHash": 997855239,
+    "position": {
+      "x": 0.00063157,
+      "y": -0.4440751
+    },
+    "waypoints": [
+      95
+    ],
+    "sector": 13,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 95,
+    "settingsHash": 910436923,
+    "position": {
+      "x": -0.07607324,
+      "y": -0.44355652
+    },
+    "waypoints": [],
+    "sector": 13,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 96,
+    "settingsHash": 2306843160,
+    "position": {
+      "x": -0.13786763,
+      "y": -0.40105802
+    },
+    "waypoints": [
+      97
+    ],
+    "sector": 14,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 97,
+    "settingsHash": 4011448258,
+    "position": {
+      "x": -0.21110377,
+      "y": -0.42437923
+    },
+    "waypoints": [],
+    "sector": 14,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 98,
+    "settingsHash": 3533355425,
+    "position": {
+      "x": -0.25539273,
+      "y": -0.3439258
+    },
+    "waypoints": [
+      99
+    ],
+    "sector": 28,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 99,
+    "settingsHash": 1616302990,
+    "position": {
+      "x": -0.31297135,
+      "y": -0.39101082
+    },
+    "waypoints": [],
+    "sector": 28,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 100,
+    "settingsHash": 3515299681,
+    "position": {
+      "x": 0.9189892,
+      "y": -0.1249713
+    },
+    "waypoints": [
+      216
+    ],
+    "sector": 29,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 2
+  },
+  {
+    "index": 101,
+    "settingsHash": 3115954791,
+    "position": {
+      "x": -0.3422812,
+      "y": -0.302748
+    },
+    "waypoints": [
+      147
+    ],
+    "sector": 29,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 102,
+    "settingsHash": 1017957570,
+    "position": {
+      "x": -0.4123793,
+      "y": -0.17510368
+    },
+    "waypoints": [
+      103
+    ],
+    "sector": 15,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 103,
+    "settingsHash": 1398996417,
+    "position": {
+      "x": -0.353078,
+      "y": -0.13310368
+    },
+    "waypoints": [
+      62
+    ],
+    "sector": 15,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 104,
+    "settingsHash": 701410047,
+    "position": {
+      "x": -0.42307508,
+      "y": -0.029368328
+    },
+    "waypoints": [
+      105
+    ],
+    "sector": 16,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 105,
+    "settingsHash": 2344219187,
+    "position": {
+      "x": -0.46455657,
+      "y": -0.09407307
+    },
+    "waypoints": [
+      150
+    ],
+    "sector": 16,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 106,
+    "settingsHash": 1496025116,
+    "position": {
+      "x": -0.4232602,
+      "y": 0.05013234
+    },
+    "waypoints": [
+      108
+    ],
+    "sector": 17,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 107,
+    "settingsHash": 696145979,
+    "position": {
+      "x": -0.6355565,
+      "y": 0.0490733
+    },
+    "waypoints": [
+      155
+    ],
+    "sector": 17,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 108,
+    "settingsHash": 435094671,
+    "position": {
+      "x": -0.349058,
+      "y": 0.0568677
+    },
+    "waypoints": [],
+    "sector": 31,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 109,
+    "settingsHash": 2131959183,
+    "position": {
+      "x": -0.531078,
+      "y": 0.05410378
+    },
+    "waypoints": [],
+    "sector": 31,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 110,
+    "settingsHash": 412801448,
+    "position": {
+      "x": -0.48401085,
+      "y": 0.21397132
+    },
+    "waypoints": [
+      111
+    ],
+    "sector": 32,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 111,
+    "settingsHash": 255676170,
+    "position": {
+      "x": -0.40970957,
+      "y": 0.15897132
+    },
+    "waypoints": [],
+    "sector": 32,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 112,
+    "settingsHash": 2442155408,
+    "position": {
+      "x": -0.26997122,
+      "y": 0.3760109
+    },
+    "waypoints": [
+      113,
+      194
+    ],
+    "sector": 32,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 113,
+    "settingsHash": 3407029244,
+    "position": {
+      "x": -0.34874794,
+      "y": 0.28628126
+    },
+    "waypoints": [],
+    "sector": 32,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 114,
+    "settingsHash": 975759959,
+    "position": {
+      "x": -0.44310373,
+      "y": 0.599078
+    },
+    "waypoints": [
+      159
+    ],
+    "sector": 19,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 115,
+    "settingsHash": 101741274,
+    "position": {
+      "x": -0.27880847,
+      "y": 0.58735436
+    },
+    "waypoints": [
+      160,
+      194,
+      204
+    ],
+    "sector": 19,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 116,
+    "settingsHash": 2654907023,
+    "position": {
+      "x": -0.16213205,
+      "y": 0.4142603
+    },
+    "waypoints": [],
+    "sector": 19,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 117,
+    "settingsHash": 2580049274,
+    "position": {
+      "x": -0.122073,
+      "y": 0.5435566
+    },
+    "waypoints": [
+      162
+    ],
+    "sector": 19,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 118,
+    "settingsHash": 612402065,
+    "position": {
+      "x": 0.12954043,
+      "y": 0.52342516
+    },
+    "waypoints": [
+      119,
+      120
+    ],
+    "sector": 36,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 119,
+    "settingsHash": 248400433,
+    "position": {
+      "x": 0.033894707,
+      "y": 0.5456473
+    },
+    "waypoints": [],
+    "sector": 36,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 120,
+    "settingsHash": 1423930789,
+    "position": {
+      "x": 0.1969427,
+      "y": 0.5865483
+    },
+    "waypoints": [
+      121
+    ],
+    "sector": 36,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 121,
+    "settingsHash": 429955586,
+    "position": {
+      "x": 0.28023794,
+      "y": 0.6415732
+    },
+    "waypoints": [
+      165
+    ],
+    "sector": 36,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 122,
+    "settingsHash": 137703244,
+    "position": {
+      "x": 0.46854144,
+      "y": 0.5513042
+    },
+    "waypoints": [
+      123
+    ],
+    "sector": 37,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 123,
+    "settingsHash": 1156965013,
+    "position": {
+      "x": 0.3994094,
+      "y": 0.6009798
+    },
+    "waypoints": [],
+    "sector": 37,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 124,
+    "settingsHash": 2435651414,
+    "position": {
+      "x": 0.3259798,
+      "y": 0.4174094
+    },
+    "waypoints": [
+      75
+    ],
+    "sector": 20,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 125,
+    "settingsHash": 2875368439,
+    "position": {
+      "x": 0.46994886,
+      "y": 0.27418607
+    },
+    "waypoints": [
+      64,
+      168
+    ],
+    "sector": 20,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 2
+  },
+  {
+    "index": 126,
+    "settingsHash": 2706883571,
+    "position": {
+      "x": 0.5348745,
+      "y": 0.11823793
+    },
+    "waypoints": [
+      127
+    ],
+    "sector": 21,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 2
+  },
+  {
+    "index": 127,
+    "settingsHash": 2003553249,
+    "position": {
+      "x": 0.4448446,
+      "y": 0.1618837
+    },
+    "waypoints": [
+      85
+    ],
+    "sector": 21,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 2
+  },
+  {
+    "index": 128,
+    "settingsHash": 2658926073,
+    "position": {
+      "x": 0.6416474,
+      "y": -0.034105327
+    },
+    "waypoints": [],
+    "sector": 22,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 129,
+    "settingsHash": 1231076923,
+    "position": {
+      "x": 0.6244252,
+      "y": 0.10954041
+    },
+    "waypoints": [
+      171
+    ],
+    "sector": 22,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 130,
+    "settingsHash": 984145086,
+    "position": {
+      "x": 0.6394251,
+      "y": -0.11354046
+    },
+    "waypoints": [
+      131
+    ],
+    "sector": 23,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 131,
+    "settingsHash": 3921453955,
+    "position": {
+      "x": 0.5706473,
+      "y": -0.035894755
+    },
+    "waypoints": [
+      128
+    ],
+    "sector": 23,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 132,
+    "settingsHash": 3215655918,
+    "position": {
+      "x": 0.4985732,
+      "y": -0.21423799
+    },
+    "waypoints": [
+      133,
+      174
+    ],
+    "sector": 24,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 133,
+    "settingsHash": 997215371,
+    "position": {
+      "x": 0.5715483,
+      "y": -0.19894274
+    },
+    "waypoints": [],
+    "sector": 24,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 134,
+    "settingsHash": 2282459618,
+    "position": {
+      "x": 0.39494884,
+      "y": -0.34418607
+    },
+    "waypoints": [
+      86,
+      87
+    ],
+    "sector": 11,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 135,
+    "settingsHash": 1937725917,
+    "position": {
+      "x": 0.3655414,
+      "y": -0.40630427
+    },
+    "waypoints": [
+      134,
+      136
+    ],
+    "sector": 11,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 136,
+    "settingsHash": 3715077297,
+    "position": {
+      "x": 0.30818605,
+      "y": -0.4349489
+    },
+    "waypoints": [],
+    "sector": 11,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 137,
+    "settingsHash": 4017257734,
+    "position": {
+      "x": 0.21723792,
+      "y": -0.49157324
+    },
+    "waypoints": [],
+    "sector": 26,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 138,
+    "settingsHash": 1534729714,
+    "position": {
+      "x": 0.11354035,
+      "y": -0.5914251
+    },
+    "waypoints": [
+      139
+    ],
+    "sector": 26,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 139,
+    "settingsHash": 3213455987,
+    "position": {
+      "x": 0.06359941,
+      "y": -0.5271288
+    },
+    "waypoints": [
+      93
+    ],
+    "sector": 26,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 140,
+    "settingsHash": 2830340410,
+    "position": {
+      "x": -0.03489475,
+      "y": -0.54864734
+    },
+    "waypoints": [
+      141
+    ],
+    "sector": 27,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 141,
+    "settingsHash": 1297056046,
+    "position": {
+      "x": -0.12159955,
+      "y": -0.5161287
+    },
+    "waypoints": [
+      142
+    ],
+    "sector": 27,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 142,
+    "settingsHash": 1526977116,
+    "position": {
+      "x": -0.20094277,
+      "y": -0.4955483
+    },
+    "waypoints": [
+      143
+    ],
+    "sector": 27,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 143,
+    "settingsHash": 770159872,
+    "position": {
+      "x": -0.23688374,
+      "y": -0.5768446
+    },
+    "waypoints": [],
+    "sector": 27,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 144,
+    "settingsHash": 232742202,
+    "position": {
+      "x": -0.30640945,
+      "y": -0.4626785
+    },
+    "waypoints": [
+      99,
+      145
+    ],
+    "sector": 28,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 145,
+    "settingsHash": 784275392,
+    "position": {
+      "x": -0.3871862,
+      "y": -0.43394879
+    },
+    "waypoints": [],
+    "sector": 28,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 146,
+    "settingsHash": 1986037000,
+    "position": {
+      "x": -0.47797978,
+      "y": -0.3174094
+    },
+    "waypoints": [
+      147
+    ],
+    "sector": 29,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 147,
+    "settingsHash": 2935376141,
+    "position": {
+      "x": -0.4116785,
+      "y": -0.3474094
+    },
+    "waypoints": [
+      149
+    ],
+    "sector": 29,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 148,
+    "settingsHash": 3228999359,
+    "position": {
+      "x": -0.5268447,
+      "y": -0.18688355
+    },
+    "waypoints": [
+      149
+    ],
+    "sector": 29,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 149,
+    "settingsHash": 3482441182,
+    "position": {
+      "x": -0.47057328,
+      "y": -0.23023784
+    },
+    "waypoints": [],
+    "sector": 29,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 150,
+    "settingsHash": 3480296110,
+    "position": {
+      "x": -0.5226474,
+      "y": -0.035894625
+    },
+    "waypoints": [
+      151,
+      192
+    ],
+    "sector": 16,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 151,
+    "settingsHash": 1043181,
+    "position": {
+      "x": -0.56242514,
+      "y": -0.11354032
+    },
+    "waypoints": [],
+    "sector": 16,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 152,
+    "settingsHash": 572242261,
+    "position": {
+      "x": -0.9146473,
+      "y": -0.17310524
+    },
+    "waypoints": [],
+    "sector": 31,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 3
+  },
+  {
+    "index": 153,
+    "settingsHash": 1192040123,
+    "position": {
+      "x": -0.745425,
+      "y": -0.1314594
+    },
+    "waypoints": [
+      239
+    ],
+    "sector": 31,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 154,
+    "settingsHash": 457558822,
+    "position": {
+      "x": -0.6788745,
+      "y": 0.117238
+    },
+    "waypoints": [
+      107,
+      155
+    ],
+    "sector": 31,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 155,
+    "settingsHash": 2655630774,
+    "position": {
+      "x": -0.73154825,
+      "y": 0.05294286
+    },
+    "waypoints": [
+      197
+    ],
+    "sector": 31,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 156,
+    "settingsHash": 3531149629,
+    "position": {
+      "x": -0.6009798,
+      "y": 0.2024094
+    },
+    "waypoints": [],
+    "sector": 33,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 157,
+    "settingsHash": 2007360508,
+    "position": {
+      "x": -0.575186,
+      "y": 0.26594892
+    },
+    "waypoints": [
+      156,
+      199
+    ],
+    "sector": 32,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 158,
+    "settingsHash": 2564387350,
+    "position": {
+      "x": -0.7044093,
+      "y": 0.25667855
+    },
+    "waypoints": [
+      242,
+      244
+    ],
+    "sector": 32,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 159,
+    "settingsHash": 1159313659,
+    "position": {
+      "x": -0.3992379,
+      "y": 0.5128745
+    },
+    "waypoints": [
+      160,
+      203
+    ],
+    "sector": 34,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 160,
+    "settingsHash": 2695598028,
+    "position": {
+      "x": -0.3412379,
+      "y": 0.5515733
+    },
+    "waypoints": [
+      204
+    ],
+    "sector": 34,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 161,
+    "settingsHash": 1109752394,
+    "position": {
+      "x": -0.04959929,
+      "y": 0.5291288
+    },
+    "waypoints": [
+      162
+    ],
+    "sector": 35,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 162,
+    "settingsHash": 4171074231,
+    "position": {
+      "x": -0.07354023,
+      "y": 0.6374251
+    },
+    "waypoints": [
+      163,
+      250
+    ],
+    "sector": 35,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 163,
+    "settingsHash": 1270268663,
+    "position": {
+      "x": 0.061421014,
+      "y": 0.6512196
+    },
+    "waypoints": [
+      251
+    ],
+    "sector": 35,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 164,
+    "settingsHash": 575825411,
+    "position": {
+      "x": 0.09195879,
+      "y": 0.7373349
+    },
+    "waypoints": [
+      165
+    ],
+    "sector": 36,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 165,
+    "settingsHash": 3031668844,
+    "position": {
+      "x": 0.2163721,
+      "y": 0.7093697
+    },
+    "waypoints": [],
+    "sector": 36,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 166,
+    "settingsHash": 3692735566,
+    "position": {
+      "x": 0.47584745,
+      "y": 0.6789487
+    },
+    "waypoints": [
+      167,
+      256
+    ],
+    "sector": 37,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 2
+  },
+  {
+    "index": 167,
+    "settingsHash": 3517952761,
+    "position": {
+      "x": 0.5693348,
+      "y": 0.6043272
+    },
+    "waypoints": [
+      257
+    ],
+    "sector": 37,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 2
+  },
+  {
+    "index": 168,
+    "settingsHash": 3604506896,
+    "position": {
+      "x": 0.4243272,
+      "y": 0.34833485
+    },
+    "waypoints": [],
+    "sector": 38,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 2
+  },
+  {
+    "index": 169,
+    "settingsHash": 356540875,
+    "position": {
+      "x": 0.5803697,
+      "y": 0.29137206
+    },
+    "waypoints": [
+      170
+    ],
+    "sector": 21,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 2
+  },
+  {
+    "index": 170,
+    "settingsHash": 3087050848,
+    "position": {
+      "x": 0.6880386,
+      "y": 0.30101782
+    },
+    "waypoints": [
+      212
+    ],
+    "sector": 21,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 2
+  },
+  {
+    "index": 171,
+    "settingsHash": 2036924050,
+    "position": {
+      "x": 0.7302936,
+      "y": 0.14800768
+    },
+    "waypoints": [
+      214
+    ],
+    "sector": 39,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 172,
+    "settingsHash": 2254239637,
+    "position": {
+      "x": 0.7312195,
+      "y": -0.12242107
+    },
+    "waypoints": [
+      173
+    ],
+    "sector": 23,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 173,
+    "settingsHash": 1039531899,
+    "position": {
+      "x": 0.8252936,
+      "y": -0.13200772
+    },
+    "waypoints": [
+      217
+    ],
+    "sector": 23,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 174,
+    "settingsHash": 1730968584,
+    "position": {
+      "x": 0.5600685,
+      "y": -0.27437216
+    },
+    "waypoints": [],
+    "sector": 24,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 175,
+    "settingsHash": 3461540330,
+    "position": {
+      "x": 0.6873349,
+      "y": -0.2439588
+    },
+    "waypoints": [
+      219
+    ],
+    "sector": 24,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 176,
+    "settingsHash": 3671746797,
+    "position": {
+      "x": 0.51897186,
+      "y": -0.3859795
+    },
+    "waypoints": [],
+    "sector": 25,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 177,
+    "settingsHash": 1969390828,
+    "position": {
+      "x": 0.5813272,
+      "y": -0.45833483
+    },
+    "waypoints": [
+      179
+    ],
+    "sector": 25,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 178,
+    "settingsHash": 3856827013,
+    "position": {
+      "x": 0.45897943,
+      "y": -0.45897192
+    },
+    "waypoints": [
+      176
+    ],
+    "sector": 25,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 179,
+    "settingsHash": 386932878,
+    "position": {
+      "x": 0.4808474,
+      "y": -0.5826475
+    },
+    "waypoints": [
+      222,
+      223
+    ],
+    "sector": 25,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 180,
+    "settingsHash": 2517847560,
+    "position": {
+      "x": 0.27001774,
+      "y": -0.5880387
+    },
+    "waypoints": [],
+    "sector": 25,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 181,
+    "settingsHash": 1581052380,
+    "position": {
+      "x": 0.3589587,
+      "y": -0.73933494
+    },
+    "waypoints": [
+      183,
+      224
+    ],
+    "sector": 25,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 182,
+    "settingsHash": 4182360890,
+    "position": {
+      "x": 0.04742095,
+      "y": -0.64221954
+    },
+    "waypoints": [
+      138
+    ],
+    "sector": 26,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 183,
+    "settingsHash": 2078192573,
+    "position": {
+      "x": 0.2510076,
+      "y": -0.69129366
+    },
+    "waypoints": [
+      226
+    ],
+    "sector": 26,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 184,
+    "settingsHash": 1722929190,
+    "position": {
+      "x": -0.04842106,
+      "y": -0.70721954
+    },
+    "waypoints": [
+      185
+    ],
+    "sector": 43,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 185,
+    "settingsHash": 101839064,
+    "position": {
+      "x": -0.1330078,
+      "y": -0.6602936
+    },
+    "waypoints": [
+      229
+    ],
+    "sector": 43,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 186,
+    "settingsHash": 2563880739,
+    "position": {
+      "x": -0.2649589,
+      "y": -0.6723349
+    },
+    "waypoints": [
+      143
+    ],
+    "sector": 27,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 187,
+    "settingsHash": 1697634205,
+    "position": {
+      "x": -0.37284753,
+      "y": -0.5306474
+    },
+    "waypoints": [
+      145
+    ],
+    "sector": 28,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 188,
+    "settingsHash": 1366049074,
+    "position": {
+      "x": -0.5559487,
+      "y": -0.31584743
+    },
+    "waypoints": [
+      189,
+      190
+    ],
+    "sector": 30,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 189,
+    "settingsHash": 4234355218,
+    "position": {
+      "x": -0.4953272,
+      "y": -0.4213348
+    },
+    "waypoints": [],
+    "sector": 30,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 190,
+    "settingsHash": 2097290850,
+    "position": {
+      "x": -0.6140685,
+      "y": -0.20337197
+    },
+    "waypoints": [],
+    "sector": 30,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 191,
+    "settingsHash": 3764590020,
+    "position": {
+      "x": 0.03396134,
+      "y": 0.9259823
+    },
+    "waypoints": [
+      254
+    ],
+    "sector": 30,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 192,
+    "settingsHash": 3052439858,
+    "position": {
+      "x": -0.62221956,
+      "y": -0.042420916
+    },
+    "waypoints": [],
+    "sector": 16,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 193,
+    "settingsHash": 2845725342,
+    "position": {
+      "x": -0.6862936,
+      "y": -0.25600755
+    },
+    "waypoints": [
+      236
+    ],
+    "sector": 16,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 194,
+    "settingsHash": 3837447591,
+    "position": {
+      "x": -0.22899726,
+      "y": 0.49906695
+    },
+    "waypoints": [
+      160
+    ],
+    "sector": 46,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 195,
+    "settingsHash": 1126502547,
+    "position": {
+      "x": -0.9272936,
+      "y": -0.04299212
+    },
+    "waypoints": [
+      196,
+      243
+    ],
+    "sector": 46,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 3
+  },
+  {
+    "index": 196,
+    "settingsHash": 3244992775,
+    "position": {
+      "x": -0.8473348,
+      "y": -0.096041
+    },
+    "waypoints": [
+      152,
+      153
+    ],
+    "sector": 33,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 3
+  },
+  {
+    "index": 197,
+    "settingsHash": 1806559160,
+    "position": {
+      "x": -0.74603856,
+      "y": -0.03198197
+    },
+    "waypoints": [
+      107,
+      153,
+      196
+    ],
+    "sector": 33,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 198,
+    "settingsHash": 2831860380,
+    "position": {
+      "x": -0.43697178,
+      "y": 0.3259796
+    },
+    "waypoints": [
+      199,
+      200
+    ],
+    "sector": 33,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 199,
+    "settingsHash": 2016899055,
+    "position": {
+      "x": -0.5379487,
+      "y": 0.3338475
+    },
+    "waypoints": [],
+    "sector": 33,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 200,
+    "settingsHash": 2071495162,
+    "position": {
+      "x": -0.4909794,
+      "y": 0.4139719
+    },
+    "waypoints": [],
+    "sector": 34,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 201,
+    "settingsHash": 996779072,
+    "position": {
+      "x": -0.5683347,
+      "y": 0.4903273
+    },
+    "waypoints": [
+      245
+    ],
+    "sector": 34,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 202,
+    "settingsHash": 1982461871,
+    "position": {
+      "x": -0.53437203,
+      "y": 0.6510685
+    },
+    "waypoints": [
+      248
+    ],
+    "sector": 34,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 203,
+    "settingsHash": 3161413384,
+    "position": {
+      "x": -0.31501773,
+      "y": 0.4560387
+    },
+    "waypoints": [
+      112,
+      194
+    ],
+    "sector": 34,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 204,
+    "settingsHash": 964201429,
+    "position": {
+      "x": -0.35206652,
+      "y": 0.64499736
+    },
+    "waypoints": [],
+    "sector": 35,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 205,
+    "settingsHash": 319528443,
+    "position": {
+      "x": -0.32600746,
+      "y": 0.7472937
+    },
+    "waypoints": [
+      248
+    ],
+    "sector": 35,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 206,
+    "settingsHash": 1805868079,
+    "position": {
+      "x": 0.084947325,
+      "y": 0.8337918
+    },
+    "waypoints": [
+      207
+    ],
+    "sector": 36,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 207,
+    "settingsHash": 2174989502,
+    "position": {
+      "x": -0.06005267,
+      "y": 0.84179187
+    },
+    "waypoints": [
+      70
+    ],
+    "sector": 36,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 208,
+    "settingsHash": 1125831687,
+    "position": {
+      "x": 0.3105063,
+      "y": 0.77156365
+    },
+    "waypoints": [
+      255
+    ],
+    "sector": 36,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 209,
+    "settingsHash": 2595930801,
+    "position": {
+      "x": 0.7657729,
+      "y": 0.5369948
+    },
+    "waypoints": [
+      210
+    ],
+    "sector": 37,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 2
+  },
+  {
+    "index": 210,
+    "settingsHash": 1644011282,
+    "position": {
+      "x": 0.77812827,
+      "y": 0.3443502
+    },
+    "waypoints": [],
+    "sector": 37,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 2
+  },
+  {
+    "index": 211,
+    "settingsHash": 301092871,
+    "position": {
+      "x": 0.4889177,
+      "y": 0.43328553
+    },
+    "waypoints": [],
+    "sector": 38,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 2
+  },
+  {
+    "index": 212,
+    "settingsHash": 1344035939,
+    "position": {
+      "x": 0.633865,
+      "y": 0.3955063
+    },
+    "waypoints": [],
+    "sector": 38,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 2
+  },
+  {
+    "index": 213,
+    "settingsHash": 2798506372,
+    "position": {
+      "x": 0.9115288,
+      "y": 0.18509296
+    },
+    "waypoints": [],
+    "sector": 38,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 2
+  },
+  {
+    "index": 214,
+    "settingsHash": 2529588949,
+    "position": {
+      "x": 0.7147919,
+      "y": 0.06394728
+    },
+    "waypoints": [
+      217
+    ],
+    "sector": 39,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 215,
+    "settingsHash": 2633633039,
+    "position": {
+      "x": 0.8417918,
+      "y": 0.10094728
+    },
+    "waypoints": [
+      213
+    ],
+    "sector": 39,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 2
+  },
+  {
+    "index": 216,
+    "settingsHash": 3575106066,
+    "position": {
+      "x": 0.93316215,
+      "y": 0.004525
+    },
+    "waypoints": [
+      215
+    ],
+    "sector": 39,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 2
+  },
+  {
+    "index": 217,
+    "settingsHash": 1050117740,
+    "position": {
+      "x": 0.7587918,
+      "y": -0.019947395
+    },
+    "waypoints": [],
+    "sector": 39,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 218,
+    "settingsHash": 1272337220,
+    "position": {
+      "x": 0.8658252,
+      "y": -0.30003393
+    },
+    "waypoints": [
+      219
+    ],
+    "sector": 40,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 219,
+    "settingsHash": 1029706994,
+    "position": {
+      "x": 0.7575288,
+      "y": -0.351093
+    },
+    "waypoints": [
+      220
+    ],
+    "sector": 40,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 220,
+    "settingsHash": 4039961663,
+    "position": {
+      "x": 0.7659177,
+      "y": -0.48228556
+    },
+    "waypoints": [
+      221
+    ],
+    "sector": 41,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 221,
+    "settingsHash": 3290149632,
+    "position": {
+      "x": 0.66399485,
+      "y": -0.5727729
+    },
+    "waypoints": [],
+    "sector": 41,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 222,
+    "settingsHash": 3795087598,
+    "position": {
+      "x": 0.58777285,
+      "y": -0.676995
+    },
+    "waypoints": [
+      223
+    ],
+    "sector": 41,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 223,
+    "settingsHash": 4053031948,
+    "position": {
+      "x": 0.49028546,
+      "y": -0.71661645
+    },
+    "waypoints": [],
+    "sector": 41,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 224,
+    "settingsHash": 3659425534,
+    "position": {
+      "x": 0.29350623,
+      "y": -0.8715637
+    },
+    "waypoints": [
+      225
+    ],
+    "sector": 42,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 225,
+    "settingsHash": 433678065,
+    "position": {
+      "x": 0.14809287,
+      "y": -0.91152894
+    },
+    "waypoints": [],
+    "sector": 42,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 226,
+    "settingsHash": 1377257553,
+    "position": {
+      "x": 0.09694725,
+      "y": -0.7277918
+    },
+    "waypoints": [],
+    "sector": 42,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 227,
+    "settingsHash": 264536752,
+    "position": {
+      "x": 0.104947254,
+      "y": -0.82979184
+    },
+    "waypoints": [
+      228
+    ],
+    "sector": 42,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 228,
+    "settingsHash": 3709894755,
+    "position": {
+      "x": -0.037947383,
+      "y": -0.8437918
+    },
+    "waypoints": [
+      229
+    ],
+    "sector": 43,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 229,
+    "settingsHash": 449319042,
+    "position": {
+      "x": -0.16047508,
+      "y": -0.85416216
+    },
+    "waypoints": [],
+    "sector": 43,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 230,
+    "settingsHash": 1531805760,
+    "position": {
+      "x": -0.31250626,
+      "y": -0.83086497
+    },
+    "waypoints": [
+      231
+    ],
+    "sector": 27,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 231,
+    "settingsHash": 3472221087,
+    "position": {
+      "x": -0.44250628,
+      "y": -0.76256365
+    },
+    "waypoints": [
+      232
+    ],
+    "sector": 27,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 232,
+    "settingsHash": 31903659,
+    "position": {
+      "x": -0.5732856,
+      "y": -0.6689176
+    },
+    "waypoints": [
+      233
+    ],
+    "sector": 44,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 233,
+    "settingsHash": 728004013,
+    "position": {
+      "x": -0.48777303,
+      "y": -0.5639948
+    },
+    "waypoints": [],
+    "sector": 44,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 234,
+    "settingsHash": 33972203,
+    "position": {
+      "x": -0.6169949,
+      "y": -0.5607729
+    },
+    "waypoints": [
+      235
+    ],
+    "sector": 45,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 235,
+    "settingsHash": 3339959103,
+    "position": {
+      "x": -0.75561637,
+      "y": -0.5062855
+    },
+    "waypoints": [
+      236
+    ],
+    "sector": 45,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 236,
+    "settingsHash": 3478070727,
+    "position": {
+      "x": -0.6258253,
+      "y": -0.40203378
+    },
+    "waypoints": [
+      234
+    ],
+    "sector": 45,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 237,
+    "settingsHash": 1923795699,
+    "position": {
+      "x": -0.8608651,
+      "y": -0.36050615
+    },
+    "waypoints": [
+      235
+    ],
+    "sector": 45,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 238,
+    "settingsHash": 2658611086,
+    "position": {
+      "x": -0.7807918,
+      "y": -0.3289472
+    },
+    "waypoints": [
+      241
+    ],
+    "sector": 46,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 3
+  },
+  {
+    "index": 239,
+    "settingsHash": 2659689769,
+    "position": {
+      "x": -0.6268659,
+      "y": -0.12653387
+    },
+    "waypoints": [
+      151
+    ],
+    "sector": 46,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 240,
+    "settingsHash": 1049999007,
+    "position": {
+      "x": -0.9021621,
+      "y": 0.15547518
+    },
+    "waypoints": [
+      243
+    ],
+    "sector": 46,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 241,
+    "settingsHash": 2216912817,
+    "position": {
+      "x": -0.8157918,
+      "y": -0.2170526
+    },
+    "waypoints": [
+      152,
+      153
+    ],
+    "sector": 46,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 3
+  },
+  {
+    "index": 242,
+    "settingsHash": 260933067,
+    "position": {
+      "x": -0.806865,
+      "y": 0.20750636
+    },
+    "waypoints": [
+      243
+    ],
+    "sector": 48,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 243,
+    "settingsHash": 230950549,
+    "position": {
+      "x": -0.840825,
+      "y": 0.06103413
+    },
+    "waypoints": [
+      155
+    ],
+    "sector": 48,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 244,
+    "settingsHash": 17046409,
+    "position": {
+      "x": -0.74635,
+      "y": 0.3441284
+    },
+    "waypoints": [
+      242
+    ],
+    "sector": 49,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 245,
+    "settingsHash": 3825459240,
+    "position": {
+      "x": -0.6519177,
+      "y": 0.45428553
+    },
+    "waypoints": [
+      249
+    ],
+    "sector": 49,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 246,
+    "settingsHash": 229350423,
+    "position": {
+      "x": -0.7952854,
+      "y": 0.4969178
+    },
+    "waypoints": [
+      247,
+      249
+    ],
+    "sector": 50,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 247,
+    "settingsHash": 1554138344,
+    "position": {
+      "x": -0.8741281,
+      "y": 0.3473503
+    },
+    "waypoints": [],
+    "sector": 50,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 248,
+    "settingsHash": 1826401325,
+    "position": {
+      "x": -0.56103384,
+      "y": 0.77082515
+    },
+    "waypoints": [],
+    "sector": 50,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 249,
+    "settingsHash": 2165203458,
+    "position": {
+      "x": -0.6895062,
+      "y": 0.5908651
+    },
+    "waypoints": [],
+    "sector": 50,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 250,
+    "settingsHash": 714233297,
+    "position": {
+      "x": -0.13953374,
+      "y": 0.7098659
+    },
+    "waypoints": [
+      251
+    ],
+    "sector": 35,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 251,
+    "settingsHash": 252504470,
+    "position": {
+      "x": -0.048947096,
+      "y": 0.72179186
+    },
+    "waypoints": [],
+    "sector": 35,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 252,
+    "settingsHash": 2360232252,
+    "position": {
+      "x": -0.35552636,
+      "y": 0.8833641
+    },
+    "waypoints": [
+      253
+    ],
+    "sector": 51,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 253,
+    "settingsHash": 1524642040,
+    "position": {
+      "x": -0.19952635,
+      "y": 0.9263641
+    },
+    "waypoints": [
+      70
+    ],
+    "sector": 51,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 254,
+    "settingsHash": 3789806846,
+    "position": {
+      "x": 0.14810903,
+      "y": 0.9233154
+    },
+    "waypoints": [
+      255
+    ],
+    "sector": 52,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 255,
+    "settingsHash": 3809134104,
+    "position": {
+      "x": 0.3191681,
+      "y": 0.8730191
+    },
+    "waypoints": [],
+    "sector": 52,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  },
+  {
+    "index": 256,
+    "settingsHash": 4020204519,
+    "position": {
+      "x": 0.5267236,
+      "y": 0.7475853
+    },
+    "waypoints": [
+      257
+    ],
+    "sector": 53,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 2
+  },
+  {
+    "index": 257,
+    "settingsHash": 1588671273,
+    "position": {
+      "x": 0.6665664,
+      "y": 0.6070179
+    },
+    "waypoints": [
+      209
+    ],
+    "sector": 53,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 2
+  },
+  {
+    "index": 258,
+    "settingsHash": 843081973,
+    "position": {
+      "x": 0.55758536,
+      "y": 0.4887236
+    },
+    "waypoints": [
+      211
+    ],
+    "sector": 53,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 2
+  },
+  {
+    "index": 259,
+    "settingsHash": 3966660905,
+    "position": {
+      "x": 0.6838866,
+      "y": 0.48672357
+    },
+    "waypoints": [
+      212,
+      258
+    ],
+    "sector": 53,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 2
+  },
+  {
+    "index": 260,
+    "settingsHash": 3923589145,
+    "position": {
+      "x": -0.438396,
+      "y": 0.6977152
+    },
+    "waypoints": [
+      202
+    ],
+    "sector": 49,
+    "maxHealth": 1000000,
+    "disabled": false,
+    "initialOwner": 1
+  }
+]
