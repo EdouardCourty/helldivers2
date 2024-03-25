@@ -12,7 +12,7 @@ export default class WarInfoDenormaliser {
     static denormaliseWarInfo(body) {
         const warInfo = new WarInfo();
 
-        warInfo.warId = body['warId'];
+        warInfo.id = body['warId'];
         warInfo.startDate = body['startDate'];
         warInfo.endDate = body['endDate'];
         warInfo.minimumClientVersion = body['minimumClientVersion'];

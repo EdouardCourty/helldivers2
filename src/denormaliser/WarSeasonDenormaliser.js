@@ -4,11 +4,9 @@ import PlanetAttack from "../model/WarSeason/PlanetAttack.js";
 import Campaign from "../model/WarSeason/Campaign.js";
 import JointOperation from "../model/WarSeason/JointOperation.js";
 import PlanetEvent from "../model/WarSeason/PlanetEvent.js";
-import planetAttack from "../model/WarSeason/PlanetAttack.js";
 import GlobalEvent from "../model/WarSeason/GlobalEvent.js";
 import PlanetDenormaliser from "./Common/PlanetDenormaliser.js";
 import RaceDenormaliser from "./Common/RaceDenormaliser.js";
-import GameAssetMapper from "../repository/GameAssetMapper.js";
 
 export default class WarSeasonDenormaliser {
     /**
@@ -18,7 +16,7 @@ export default class WarSeasonDenormaliser {
     static denormaliseWarSeason(body) {
         const warSeason = new WarSeason();
 
-        warSeason.warId = body['warId'];
+        warSeason.id = body['warId'];
         warSeason.time = body['time'];
         warSeason.impactMultiplier = body['impactMultiplier'];
         warSeason.storyBeatId32 = body['storyBeatId32'];

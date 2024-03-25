@@ -1,19 +1,19 @@
 import HTTPClient from "../HTTPClient.js";
 import HttpNotFoundException from "../exception/HttpNotFoundException.js";
-import WarInfo from "../model/WarInfo.js";
-import WarInfoDenormaliser from "../denormaliser/WarInfoDenormaliser.js";
 import HttpErrorException from "../exception/HttpErrorException.js";
+import WarSummaryDenormaliser from "../denormaliser/WarSummaryDenormaliser.js";
+import WarSummary from "../model/WarSummary.js";
 
-export default class WarInfoRepository {
+export default class StatisticsRepository {
     /**
-     * @param warId
-     * @returns {Promise<WarInfo>}
+     * @param {number} warId
+     * @returns {Promise<WarSummary>}
      */
-    static async getById(warId) {
+    static async getWarSummary(warId) {
         try {
-            const response = await HTTPClient.getInstance().get('/api/WarSeason/' + warId + '/WarInfo');
+            const response = await HTTPClient.getInstance().get('/api/Stats/war/' + warId + '/summary');
 
-            return WarInfoDenormaliser.denormaliseWarInfo(response.data)
+            return WarSummaryDenormaliser.denormaliseWarSummary(response.data)
         } catch (error) {
             if (error.response.status === 400 || error.response.status === 404) {
                 throw new HttpNotFoundException(`War with ID ${warId} not found.`);

@@ -20,4 +20,22 @@ export default class WarTimeRepository {
             }
         }
     }
+
+    /**
+     * @param {number} warId
+     * @returns {Promise<number>}
+     */
+    static async getWarTimeSinceStart(warId) {
+        try {
+            const response = await HTTPClient.getInstance().get('/api/WarSeason/' + warId + '/TimeSinceStart');
+
+            return response['data']['secondsSinceStart'];
+        } catch (error) {
+            if (error.response.status === 400 || error.response.status === 404) {
+                throw new HttpNotFoundException(`War with ID ${warId} not found.`);
+            } else {
+                throw new HttpErrorException('An error occurred.', error.response.status, error.response);
+            }
+        }
+    }
 }

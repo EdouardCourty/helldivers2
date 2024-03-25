@@ -7,7 +7,7 @@ import GlobalEvent from "./WarSeason/GlobalEvent.js";
 
 export default class WarSeason {
     /** @type number */
-    warId;
+    id;
     /** @type number */
     time;
     /** @type number */
