@@ -7,7 +7,7 @@ import WarTimeRepository from "./src/repository/WarTimeRepository.js";
 import StatisticsRepository from "./src/repository/StatisticsRepository.js";
 
 export default {
-    getWarSeason: (warId) => WarSeasonRepository.getById(warId),
+    getWar: (warId) => WarSeasonRepository.getById(warId),
     getWarInfo: (warId) => WarInfoRepository.getById(warId),
     getWarNewsFeed: (warId, timestamp = null) => WarNewsFeedRepository.getByWarId(warId, timestamp),
     getCurrentWarId: () => WarIdRepository.getCurrentWarId(),
