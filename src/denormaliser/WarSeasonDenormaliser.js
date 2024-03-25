@@ -6,6 +6,9 @@ import JointOperation from "../model/WarSeason/JointOperation.js";
 import PlanetEvent from "../model/WarSeason/PlanetEvent.js";
 import planetAttack from "../model/WarSeason/PlanetAttack.js";
 import GlobalEvent from "../model/WarSeason/GlobalEvent.js";
+import PlanetDenormaliser from "./Common/PlanetDenormaliser.js";
+import RaceDenormaliser from "./Common/RaceDenormaliser.js";
+import GameAssetMapper from "../repository/GameAssetMapper.js";
 
 export default class WarSeasonDenormaliser {
     /**
@@ -28,14 +31,15 @@ export default class WarSeasonDenormaliser {
         warSeason.planetActiveEffects = body['planetActiveEffects'];
         warSeason.activeElectionPolicyEffects = body['activeElectionPolicyEffects'];
         warSeason.globalEvents = body['globalEvents'].map((data) => this.denormaliseGlobalEvent(data));
+        warSeason.superEarthWarResults = body['superEarthWarResults'];
 
         return warSeason;
     }
 
     static denormalisePlanetStatus(data) {
         const planetStatus = new PlanetStatus();
-        planetStatus.index = data['index'];
-        planetStatus.owner = data['owner'];
+        planetStatus.planet = PlanetDenormaliser.denormalisePlanet(data['index']);
+        planetStatus.owner = RaceDenormaliser.denormaliseRace(data['owner']);
         planetStatus.health = data['health'];
         planetStatus.regenPerSecond = data['regenPerSecond'];
         planetStatus.players = data['players'];
@@ -45,8 +49,8 @@ export default class WarSeasonDenormaliser {
 
     static denormalisePlanetAttack(data) {
         const planetAttack = new PlanetAttack();
-        planetAttack.source = data['source'];
-        planetAttack.target = data['target'];
+        planetAttack.source = PlanetDenormaliser.denormalisePlanet(data['source']);
+        planetAttack.target = PlanetDenormaliser.denormalisePlanet(data['target']);
 
         return planetAttack;
     }
@@ -54,7 +58,7 @@ export default class WarSeasonDenormaliser {
     static denormaliseCampaign(data) {
         const campaign = new Campaign();
         campaign.id = data['id'];
-        campaign.planetIndex = data['planetIndex'];
+        campaign.planet = PlanetDenormaliser.denormalisePlanet(data['planetIndex']);
         campaign.type = data['type'];
         campaign.count = data['count'];
 
@@ -64,7 +68,7 @@ export default class WarSeasonDenormaliser {
     static denormaliseJointOperation(data) {
         const jointOperation = new JointOperation();
         jointOperation.id = data['id'];
-        jointOperation.planetIndex = data['index'];
+        jointOperation.planet = PlanetDenormaliser.denormalisePlanet(data['planetIndex']);
         jointOperation.hqNodeIndex = data['hqNodeIndex'];
 
         return jointOperation;
@@ -73,9 +77,9 @@ export default class WarSeasonDenormaliser {
     static denormalisePlanetEvent(data) {
         const planetEvent = new PlanetEvent();
         planetEvent.id = data['id'];
-        planetEvent.index = data['index'];
+        planetEvent.planet = PlanetDenormaliser.denormalisePlanet(data['planetIndex']);
         planetEvent.eventType = data['eventType'];
-        planetEvent.race = data['race'];
+        planetEvent.race = RaceDenormaliser.denormaliseRace(data['race']);
         planetEvent.health = data['health'];
         planetEvent.maxHealth = data['maxHealth'];
         planetEvent.startTime = data['startTime'];

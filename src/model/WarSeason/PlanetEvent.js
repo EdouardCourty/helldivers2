@@ -1,11 +1,14 @@
+import Planet from "../CommonNested/Planet.js";
+import Race from "../CommonNested/Race.js";
+
 export default class PlanetEvent {
     /** @type number */
     id;
-    /** @type number */
-    planetIndex;
+    /** @type Planet */
+    planet;
     /** @type number */
     eventType;
-    /** @type number */
+    /** @type Race */
     race;
     /** @type number */
     health;

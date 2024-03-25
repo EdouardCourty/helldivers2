@@ -1,6 +1,8 @@
+import Planet from "../CommonNested/Planet.js";
+
 export default class PlanetAttack {
-    /** @type number */
+    /** @type Planet */
     source;
-    /** @type number */
+    /** @type Planet */
     target;
 }

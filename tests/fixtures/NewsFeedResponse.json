@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "published": 2414563,
+    "type": 0,
+    "tagIds": [],
+    "message": "Message 1"
+  },
+  {
+    "id": 2,
+    "published": 2499000,
+    "type": 0,
+    "tagIds": [],
+    "message": "Message 2"
+  }
+]

@@ -1,3 +1,4 @@
+import Planet from "../CommonNested/Planet.js";
 import Position from "../CommonNested/Position.js";
 
 export default class PlanetInfo {
@@ -5,14 +6,12 @@ export default class PlanetInfo {
     disabled;
     /** @type string */
     settingsHash;
-    /** @type number */
-    index;
+    /** @type Planet */
+    planet;
     /** @type string */
     initialOwner;
     /** @type number */
     maxHealth;
-    /** @type string */
-    name;
     /** @type Position */
     position;
     /** @type string */

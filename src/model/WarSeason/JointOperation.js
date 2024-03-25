@@ -1,8 +1,10 @@
+import Planet from "../CommonNested/Planet.js";
+
 export default class JointOperation {
     /** @type number */
     id;
-    /** @type number */
-    planetIndex;
+    /** @type Planet */
+    planet;
     /** @type number */
     hqNodeIndex;
 }

@@ -2,6 +2,7 @@ import WarInfo from "../model/WarInfo.js";
 import PlanetInfo from "../model/WarInfo/PlanetInfo.js";
 import Position from "../model/CommonNested/Position.js";
 import HomeWorld from "../model/WarInfo/HomeWorld.js";
+import PlanetDenormaliser from "./Common/PlanetDenormaliser.js";
 
 export default class WarInfoDenormaliser {
     /**
@@ -29,7 +30,7 @@ export default class WarInfoDenormaliser {
         position.y = data['position']['y'];
 
         const planetInfo = new PlanetInfo();
-        planetInfo.index = data['index'];
+        planetInfo.planet = PlanetDenormaliser.denormalisePlanet(data['index']);
         planetInfo.settingsHash = data['settingsHash'];
         planetInfo.position = position;
         planetInfo.waypoints = data['waypoints'];

@@ -1,8 +1,10 @@
+import Planet from "../CommonNested/Planet.js";
+
 export default class Campaign {
     /** @type number */
     id;
-    /** @type number */
-    planetIndex;
+    /** @type Planet */
+    planet;
     /** @type number */
     type;
     /** @type number */
