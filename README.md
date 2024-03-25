@@ -9,6 +9,7 @@ Currently, there is no way to get access to player data, but we're not done!
 
 ## Features
 
+- [X] Get current war id
 - [X] Get war season
 - [X] Get war info
 - [X] Get war news feed
