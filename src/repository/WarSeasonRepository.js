@@ -15,7 +15,7 @@ export default class WarSeasonRepository {
 
             return WarSeasonDenormaliser.denormaliseWarSeason(response.data)
         } catch (error) {
-            if (error.response.status === 400) {
+            if (error.response.status === 400 || error.response.status === 404) {
                 throw new HttpNotFoundException(`WarSeason with ID ${warSeasonId} not found.`);
             } else {
                 throw new HttpErrorException('An error occurred.', error.response.status, error.response);
