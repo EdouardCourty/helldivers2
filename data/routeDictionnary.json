@@ -1,0 +1,17 @@
+{
+  "first": [
+    "War",
+    "Stats",
+    "Planet",
+    "Galaxy",
+    "Player",
+    "Shop",
+    "Market",
+    "WarSeason"
+  ],
+  "second": [
+    "Info",
+    "Stats",
+    ""
+  ]
+}
