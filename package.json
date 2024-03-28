@@ -1,6 +1,6 @@
 {
   "name": "helldivers2-api",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "An API wrapper for Helldivers 2",
   "main": "index.js",
   "type": "module",
