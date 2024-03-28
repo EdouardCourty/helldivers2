@@ -15,6 +15,7 @@ Currently, there is no way to get access to player data, but we're not done!
 - [X] Get war news feed
 - [X] Get war summary (galaxy & planet statistics)
 - [X] Get war main order
+- [X] Get war leaderboards
 - [ ] Player endpoints
 - [ ] Global statistics endpoints
 

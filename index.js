@@ -5,6 +5,7 @@ import WarIdRepository from "./src/repository/WarIdRepository.js";
 import WarAssignmentRepository from "./src/repository/WarAssignmentRepository.js";
 import WarTimeRepository from "./src/repository/WarTimeRepository.js";
 import StatisticsRepository from "./src/repository/StatisticsRepository.js";
+import LeaderboardRepository from "./src/repository/LeaderboardRepository.js";
 
 export default {
     getWar: (warId) => WarSeasonRepository.getById(warId),
@@ -15,4 +16,5 @@ export default {
     getWarTime: (warId) => WarTimeRepository.getWarTime(warId),
     getWarTimeSinceStart: (warId) => WarTimeRepository.getWarTimeSinceStart(warId),
     getWarSummary: (warId) => StatisticsRepository.getWarSummary(warId),
+    getLeaderboard: (warId) => LeaderboardRepository.getWarLeaderboard(warId),
 }
