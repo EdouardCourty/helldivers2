@@ -2,6 +2,7 @@ import Assignment from "../model/Assignment.js";
 import Settings from "../model/Assignment/Settings.js";
 import Task from "../model/Assignment/Task.js";
 import Reward from "../model/Assignment/Reward.js";
+import GameAssetMapper from "../repository/GameAssetMapper.js";
 
 export default class WarAssignmentDenormaliser {
     /**
@@ -45,6 +46,7 @@ export default class WarAssignmentDenormaliser {
     static denormaliseReward(data) {
         const reward = new Reward();
         reward.type = data['type'];
+        reward.stringType = GameAssetMapper.getRewardString(reward.type);
         reward.id32 = data['id32'];
         reward.amount = data['amount'];
 
