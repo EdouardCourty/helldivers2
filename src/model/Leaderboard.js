@@ -9,6 +9,6 @@ export default class Leaderboard {
     totalResults;
     /** @type number */
     maxPage;
-    /** @type LeaderboardEntry */
+    /** @type LeaderboardEntry[] */
     entries;
 }

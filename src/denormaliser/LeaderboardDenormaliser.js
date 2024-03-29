@@ -12,6 +12,7 @@ export default class LeaderboardDenormaliser {
         leaderboard.limit = body['pageSize'];
         leaderboard.totalResults = body['totalRecords'];
         leaderboard.entries = body['entries'].map((data) => this.denormaliseLeaderboardEntry(data));
+        leaderboard.maxPage = Math.ceil(body['totalRecords'] / body['pageSize']);
 
         return leaderboard;
     }

@@ -16,5 +16,5 @@ export default {
     getWarTime: (warId) => WarTimeRepository.getWarTime(warId),
     getWarTimeSinceStart: (warId) => WarTimeRepository.getWarTimeSinceStart(warId),
     getWarSummary: (warId) => StatisticsRepository.getWarSummary(warId),
-    getLeaderboard: (warId) => LeaderboardRepository.getWarLeaderboard(warId),
+    getLeaderboard: (warId, page, limit) => LeaderboardRepository.getWarLeaderboard(warId, page, limit),
 }
